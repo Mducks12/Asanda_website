@@ -1,2 +1,6 @@
-body{background-image: url(Background.jpg);
+body{background-image: url(background2.0.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
 }
